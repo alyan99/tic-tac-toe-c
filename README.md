@@ -20,6 +20,5 @@ A highly interactive, multi-mode console-based Tic-Tac-Toe implementation writte
 ## 📁 Repository View
 
 ```text
-├── main.c           # Primary application logic, main execution pipeline, and menus
-├── results.txt      # Automated, persistent historical matches diagnostic tracker
+├── TICTAC.c           # Primary application logic, main execution pipeline, and menus
 └── README.md        # Documentation and runtime configurations
